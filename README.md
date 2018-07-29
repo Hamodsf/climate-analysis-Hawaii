@@ -1,1 +1,1 @@
-# climate_analysis_Hawaii
+# climate-analysis-Hawaii
